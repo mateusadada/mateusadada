@@ -1,6 +1,6 @@
 # 👋 Hello! Welcome to my Github profile.
 
-![visitors](https://vbr.wocr.tk/badge?page_id=mateusadada.mateusadada&color=00cf00)
+![visitors from 10/16/2023](https://vbr.wocr.tk/badge?page_id=mateusadada.mateusadada&color=00cf00)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
