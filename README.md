@@ -41,7 +41,7 @@
 <a href="https://instagram.com/mateusadada" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
-<!-- Statistics -->
+<!-- statistics -->
 ## 
 <div>
 <a href="https://github.com/mateusadada">
@@ -49,7 +49,7 @@
 <img loading="lazy" height="165em" src="https://github-readme-stats.vercel.app/api?username=mateusadada&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-<!-- Snake -->
+<!-- snake -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mateusadada/mateusadada/snake/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mateusadada/mateusadada/snake/github-contribution-grid-snake.svg">
