@@ -34,12 +34,24 @@
     </a>
 </div>
 
-## How to reach me:
+## How to reach me
 <div>
 <a href = "mailto:mateusadada@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/mateusadada" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 <a href="https://instagram.com/mateusadada" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
+
+## Recent activity
+<!--START_SECTION:activity-->
+
+## Recent activity - BACKUP
+<!--START_SECTION:activity-->
+1. 🗣 Commented on [#3457](https://github.com/hoppscotch/hoppscotch/pull/3457#issuecomment-1779723653) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
+2. 🗣 Commented on [#3457](https://github.com/hoppscotch/hoppscotch/pull/3457#issuecomment-1779402409) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
+3. 💪 Opened PR [#3473](https://github.com/hoppscotch/hoppscotch/pull/3473) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
+4. 💪 Opened PR [#3472](https://github.com/hoppscotch/hoppscotch/pull/3472) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
+5. 🎉 Merged PR [#147](https://github.com/madlabsinc/teachcode/pull/147) in [madlabsinc/teachcode](https://github.com/madlabsinc/teachcode)
+<!--END_SECTION:activity-->
 
 <!-- statistics -->
 ## 
