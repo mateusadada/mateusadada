@@ -36,8 +36,6 @@
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#15](https://github.com/cursoemvideo/cursoemvideo-python/issues/15#issuecomment-1780891919) in [cursoemvideo/cursoemvideo-python](https://github.com/cursoemvideo/cursoemvideo-python)
-<!--END_SECTION:activity-->
 
 ## How to reach me
 <div>
