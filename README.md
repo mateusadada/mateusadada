@@ -43,8 +43,6 @@
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2735](https://github.com/gustavoguanabara/git-github/issues/2735#issuecomment-1780239443) in [gustavoguanabara/git-github](https://github.com/gustavoguanabara/git-github)
-<!--END_SECTION:activity-->
 
 <!-- statistics -->
 ## 
