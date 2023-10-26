@@ -34,17 +34,17 @@
     </a>
 </div>
 
+## Recent activity
+<!--START_SECTION:activity-->
+1. 🗣 Commented on [#2735](https://github.com/gustavoguanabara/git-github/issues/2735#issuecomment-1780239443) in [gustavoguanabara/git-github](https://github.com/gustavoguanabara/git-github)
+<!--END_SECTION:activity-->
+
 ## How to reach me
 <div>
 <a href = "mailto:mateusadada@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/mateusadada" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 <a href="https://instagram.com/mateusadada" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
-
-## Recent activity
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#2735](https://github.com/gustavoguanabara/git-github/issues/2735#issuecomment-1780239443) in [gustavoguanabara/git-github](https://github.com/gustavoguanabara/git-github)
-<!--END_SECTION:activity-->
 
 <!-- statistics -->
 ## 
