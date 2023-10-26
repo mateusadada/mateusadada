@@ -1,4 +1,4 @@
-name: update_activity
+name: recent_activity
 
 on:
   schedule:
