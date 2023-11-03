@@ -1,4 +1,5 @@
-# 👋 Hello! Welcome to my Github profile.
+<h1 align="center">Hi 👋, I'm Mateus</h1>
+<h3 align="center">A passionate developer from Brazil</h3>
 
 ![visitors from 10/16/2023](https://vbr.wocr.tk/badge?page_id=mateusadada.mateusadada&color=00cf00)
 
@@ -11,7 +12,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-## Tools and technologies
+## Languages and tools
 <div>
     <a href="https://www.jetbrains.com/">
         <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" width="40" height="40"/>
@@ -43,7 +44,7 @@
 5. 🗣 Commented on [#2735](https://github.com/gustavoguanabara/git-github/issues/2735#issuecomment-1780239443) in [gustavoguanabara/git-github](https://github.com/gustavoguanabara/git-github)
 <!--END_SECTION:activity-->
 
-## How to reach me
+## Connect with me
 <div>
 <a href = "mailto:mateusadada@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/mateusadada" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
