@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mateus</h1>
-<h3 align="center">A passionate developer from Brazil</h3>
+<div align="center">A passionate developer from Brazil</div>
 
 ![visitors from 10/16/2023](https://vbr.wocr.tk/badge?page_id=mateusadada.mateusadada&color=00cf00)
 
