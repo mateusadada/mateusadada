@@ -36,10 +36,6 @@
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2771](https://github.com/gustavoguanabara/git-github/issues/2771#issuecomment-1789533648) in [gustavoguanabara/git-github](https://github.com/gustavoguanabara/git-github)
-2. 🗣 Commented on [#2772](https://github.com/gustavoguanabara/git-github/issues/2772#issuecomment-1789533311) in [gustavoguanabara/git-github](https://github.com/gustavoguanabara/git-github)
-3. 🗣 Commented on [#15](https://github.com/cursoemvideo/cursoemvideo-python/issues/15#issuecomment-1780891919) in [cursoemvideo/cursoemvideo-python](https://github.com/cursoemvideo/cursoemvideo-python)
-<!--END_SECTION:activity-->
 
 ## How to reach me
 <div>
