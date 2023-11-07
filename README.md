@@ -1,7 +1,10 @@
-<h1 align="center">Hi 👋, I'm Mateus</h1>
-<div align="center">A passionate developer from Brazil</div>
+> [!IMPORTANT]
+> This [README](https://github.com/mateusadada) is under development.
 
-![visitors from 10/16/2023](https://vbr.wocr.tk/badge?page_id=mateusadada.mateusadada&color=00cf00)
+<h1 align="center">Hi 👋, I'm Mateus</h1>
+<div align="center">A passionate developer from Brazil
+
+<br><a href="https://github.com/mateusadada/mateusadada"><img src="https://views.whatilearened.today/views/github/mateusadada/mateusadada.svg" alt="Views Badge"/></a></div>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -12,7 +15,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-## Languages and tools
+## Languages and Tools
 <div>
      <a href="https://www.python.org/">
         <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
