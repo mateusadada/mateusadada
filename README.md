@@ -1,5 +1,5 @@
 > [!IMPORTANT]
-> This [README](https://github.com/mateusadada/mateusadada) is under development.
+> This [README](https://github.com/mateusadada/mateusadada) is in development.
 
 <h1 align="center">Hi 👋, I'm Mateus</h1>
 <div align="center">A passionate developer from Brazil
@@ -15,10 +15,16 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-## Languages and Tools
+## Languages and tools
 <div>
      <a href="https://www.python.org/">
         <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+    </a>
+      <a href="https://github.com/mateusadada">
+        <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+    </a>
+      <a href="https://github.com/mateusadada">
+        <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
     </a>
     <a href="https://www.jetbrains.com/">
         <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" width="40" height="40"/>
@@ -35,6 +41,12 @@
 <div>
     <a href="https://www.python.org/">
         <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+    </a>
+      <a href="https://github.com/mateusadada">
+        <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+    </a>
+      <a href="https://github.com/mateusadada">
+        <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
     </a>
 </div>
 
