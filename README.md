@@ -1,5 +1,5 @@
 > [!IMPORTANT]
-> This [README](https://github.com/mateusadada/mateusadada) is in development.
+> This [README](https://github.com/mateusadada/mateusadada) is under development.
 
 <h1 align="center">Hi 👋, I'm Mateus</h1>
 <div align="center">A passionate developer from Brazil
