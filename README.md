@@ -20,11 +20,14 @@
      <a href="https://www.python.org/">
         <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
     </a>
-      <a href="https://github.com/mateusadada">
+      <a href="https://en.wikipedia.org/wiki/HTML5">
         <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
     </a>
-      <a href="https://github.com/mateusadada">
+      <a href="https://en.wikipedia.org/wiki/CSS">
         <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+    </a>
+    <a href="https://en.wikipedia.org/wiki/JavaScript">
+        <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
     </a>
     <a href="https://www.jetbrains.com/">
         <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" width="40" height="40"/>
@@ -39,14 +42,14 @@
 
 ## I’m currently learning
 <div>
-    <a href="https://www.python.org/">
-        <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-    </a>
-      <a href="https://github.com/mateusadada">
+      <a href="https://en.wikipedia.org/wiki/HTML5">
         <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
     </a>
-      <a href="https://github.com/mateusadada">
+      <a href="https://en.wikipedia.org/wiki/CSS">
         <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+    </a>
+    <a href="https://en.wikipedia.org/wiki/JavaScript">
+        <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
     </a>
 </div>
 
