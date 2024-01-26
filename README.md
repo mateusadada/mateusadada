@@ -29,6 +29,9 @@
     <a href="https://en.wikipedia.org/wiki/JavaScript">
         <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
     </a>
+     <a href="https://react.dev/">
+        <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+    </a>
     <a href="https://www.jetbrains.com/">
         <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" width="40" height="40"/>
     </a>
@@ -50,6 +53,9 @@
     </a>
     <a href="https://en.wikipedia.org/wiki/JavaScript">
         <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+    </a>
+     <a href="https://react.dev/">
+        <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
     </a>
 </div>
 
