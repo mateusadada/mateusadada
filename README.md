@@ -84,7 +84,7 @@
 <details> 
   <summary><h2>🌠 Stars</h2></summary>
 <!-- statistics -->
-<div>
+<div align="center">
      <a href="https://github.com/mateusadada">
      <img loading="lazy" height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusadada&layout=compact&langs_count=7&theme=dracula"/>
      <img loading="lazy" height="165em" src="https://github-readme-stats.vercel.app/api?username=mateusadada&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
