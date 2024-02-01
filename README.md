@@ -16,7 +16,7 @@
 
 ##
 <details> 
-  <summary><h2>🛠️ Languages and tools</h2></summary>
+  <summary><h2>💻 Languages and tools</h2></summary>
      <div>
           <a href="https://www.python.org/">
              <img loading="lazy" src="https://skillicons.dev/icons?i=py" width="40" height="40"/>
@@ -43,7 +43,7 @@
 </details>
 
 <details> 
-  <summary><h2>I’m currently learning</h2></summary>
+  <summary><h2>🛠️ I’m currently learning</h2></summary>
      <div>
           <a href="https://www.python.org/">
              <img loading="lazy" src="https://skillicons.dev/icons?i=py" width="40" height="40"/>
