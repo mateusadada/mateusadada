@@ -25,9 +25,7 @@
 - ⚡ Fun fact: ...
 
 <br><a href="https://github.com/mateusadada"><img src="https://views.whatilearened.today/views/github/mateusadada/mateusadada.svg" alt="Views count Badge"/></a><br>
-<a href="https://github.com/mateusadada"><img src="https://komarev.com/ghpvc/?username=mateusadada&color=447ff7&label=Visitor+count" alt="Views count Badge"/></a>
-
-<hr>
+<a href="https://github.com/mateusadada"><img src="https://komarev.com/ghpvc/?username=mateusadada&color=447ff7&label=views" alt="Views count Badge"/></a><hr>
 
 <details> 
   <summary><h3>💻 Languages and tools</h3></summary>
