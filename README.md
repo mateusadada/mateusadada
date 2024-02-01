@@ -1,10 +1,16 @@
 > [!IMPORTANT]
 > This [README](https://github.com/mateusadada) is under development.
 
-<h1 align="center">Hi 👋, I'm Mateus</h1>
-<div align="center">A passionate developer from Brazil<br><br>
-  <a href="https://github.com/mateusadada"><img src="https://views.whatilearened.today/views/github/mateusadada/mateusadada.svg" alt="Views count Badge"/></a><br>
-  <a href="https://github.com/mateusadada"><img src="https://komarev.com/ghpvc/?username=mateusadada&color=447ff7&label=Visitor+count" alt="Views count Badge"/></a>
+<div align="center">
+  <p>
+    <a href="https://github.com/mateusadada">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&center=true&vCenter=true&repeat=false&random=false&width=460&height=25&lines=Mateus+Adada" alt="Mateus Adada"/></a>
+  </p>
+  
+  <p>
+    <a href="https://github.com/mateusadada">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=460&height=25&lines=Hello+there!;I'm+a+passionate+developer+from+Brazil;Always+learning+new+things;Nice+to+meet+you..." alt="Mateus's greetings"/></a>
+  </p>
 </div>
 
 ## 💫 About me:
@@ -15,6 +21,9 @@
 - 💬 Ask me about ...
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
+
+<br><a href="https://github.com/mateusadada"><img src="https://views.whatilearened.today/views/github/mateusadada/mateusadada.svg" alt="Views count Badge"/></a><br>
+<a href="https://github.com/mateusadada"><img src="https://komarev.com/ghpvc/?username=mateusadada&color=447ff7&label=Visitor+count" alt="Views count Badge"/></a>
 
 <hr>
 
