@@ -2,10 +2,9 @@
 > This [README](https://github.com/mateusadada) is under development.
 
 <h1 align="center">Hi 👋, I'm Mateus</h1>
-<div align="center">A passionate developer from Brazil
-  
-  <br><a href="https://github.com/mateusadada"><img src="https://views.whatilearened.today/views/github/mateusadada/mateusadada.svg" alt="Views count Badge"/></a>
-  <br><a href="https://github.com/mateusadada"><img src="https://komarev.com/ghpvc/?username=mateusadada&color=447ff7&label=Visitor+count" alt="Views count Badge"/></a>
+<div align="center">A passionate developer from Brazil<br><br>
+  <a href="https://github.com/mateusadada"><img src="https://views.whatilearened.today/views/github/mateusadada/mateusadada.svg" alt="Views count Badge"/></a><br>
+  <a href="https://github.com/mateusadada"><img src="https://komarev.com/ghpvc/?username=mateusadada&color=447ff7&label=Visitor+count" alt="Views count Badge"/></a>
 </div>
 
 - 🔭 I’m currently working on Metalúrgica Wind
@@ -89,6 +88,7 @@
 <!-- statistics -->
 <div align="center">
      <a href="https://github.com/mateusadada">
+     <img loading="lazy" height="165em" src="https://streak-stats.demolab.com?user=mateusadada&theme=dracula&hide_border=false&exclude_days=Sun%2CSat"/><br>  
      <img loading="lazy" height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusadada&layout=compact&langs_count=7&theme=dracula"/>
      <img loading="lazy" height="165em" src="https://github-readme-stats.vercel.app/api?username=mateusadada&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
