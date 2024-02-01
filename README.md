@@ -1,10 +1,12 @@
 > [!IMPORTANT]
-> This [README](https://github.com/mateusadada/mateusadada) is under development.
+> This [README](https://github.com/mateusadada) is under development.
 
 <h1 align="center">Hi 👋, I'm Mateus</h1>
 <div align="center">A passionate developer from Brazil
-
-<br><a href="https://github.com/mateusadada/mateusadada"><img src="https://views.whatilearened.today/views/github/mateusadada/mateusadada.svg" alt="Views Badge"/></a></div>
+  
+  <br><a href="https://github.com/mateusadada"><img src="https://views.whatilearened.today/views/github/mateusadada/mateusadada.svg" alt="Views count Badge"/></a>
+  <br><a href="https://github.com/mateusadada"><img src="https://komarev.com/ghpvc/?username=mateusadada&color=447ff7&label=Visitor+count" alt="Views count Badge"/></a>
+</div>
 
 - 🔭 I’m currently working on Metalúrgica Wind
 - 🌱 I’m currently learning english at [TopWay](https://www.topwayschool.com/)
