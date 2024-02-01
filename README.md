@@ -4,12 +4,12 @@
 <div align="center">
   <p>
     <a href="https://github.com/mateusadada">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&center=true&vCenter=true&repeat=false&random=false&width=460&height=25&lines=Mateus+Adada" alt="Mateus Adada"/></a>
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&center=true&vCenter=true&repeat=false&random=false&width=470&height=25&lines=Mateus+Adada" alt="Mateus Adada"/></a>
   </p>
   
   <p>
     <a href="https://github.com/mateusadada">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=460&height=25&lines=Hello+there!;I'm+a+passionate+developer+from+Brazil;Always+learning+new+things;Nice+to+meet+you..." alt="Mateus's greetings"/></a>
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=470&height=30&lines=Hello+there!;I'm+a+passionate+developer+from+Brazil;Always+learning+new+things;Nice+to+meet+you..." alt="Mateus's greetings"/></a>
   </p>
 </div>
 
