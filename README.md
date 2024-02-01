@@ -7,6 +7,9 @@
   <a href="https://github.com/mateusadada"><img src="https://komarev.com/ghpvc/?username=mateusadada&color=447ff7&label=Visitor+count" alt="Views count Badge"/></a>
 </div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
+
+## 💫 About me:
 - 🔭 I’m currently working on Metalúrgica Wind
 - 🌱 I’m currently learning english at [TopWay](https://www.topwayschool.com/)
 - 👯 I’m looking to collaborate on ...
@@ -15,7 +18,8 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
+<hr>
 
 <details> 
   <summary><h2>💻 Languages and tools</h2></summary>
@@ -45,7 +49,7 @@
 </details>
 
 <details> 
-  <summary><h2>🛠️ I’m currently learning</h2></summary>
+  <summary><h2>📚 I’m currently learning</h2></summary>
      <div>
           <a href="https://www.python.org/">
              <img loading="lazy" src="https://skillicons.dev/icons?i=py" width="40" height="40"/>
@@ -63,7 +67,7 @@
 </details>
 
 <details> 
-  <summary><h2>Connect with me</h2></summary>
+  <summary><h2>🌐 Connect with me</h2></summary>
      <div>
           <a href = "mailto:mateusadada@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
           <a href="https://www.linkedin.com/in/mateusadada" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
@@ -72,7 +76,7 @@
 </details>
 
 <details> 
-  <summary><h2>📊 Recent activity</h2></summary>
+  <summary><h2>⚡ Recent activity</h2></summary>
      
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#2801](https://github.com/gustavoguanabara/git-github/issues/2801#issuecomment-1821062705) in [gustavoguanabara/git-github](https://github.com/gustavoguanabara/git-github)
@@ -84,13 +88,13 @@
 </details>
 
 <details> 
-  <summary><h2>🌠 Stars</h2></summary>
+  <summary><h2>🔥 Stats</h2></summary>
 <!-- statistics -->
 <div align="center">
      <a href="https://github.com/mateusadada">
-     <img loading="lazy" height="165em" src="https://streak-stats.demolab.com?user=mateusadada&theme=dracula&hide_border=false&exclude_days=Sun%2CSat"/><br>  
-     <img loading="lazy" height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusadada&layout=compact&langs_count=7&theme=dracula"/>
-     <img loading="lazy" height="165em" src="https://github-readme-stats.vercel.app/api?username=mateusadada&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+     <img loading="lazy" height="165em" src="https://streak-stats.demolab.com?user=mateusadada&theme=dracula&exclude_days=Sun%2CSat&hide_border=true&"/><br><br>
+     <img loading="lazy" height="165em" width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusadada&layout=compact&langs_count=7&theme=dracula&hide_border=true&"/>
+     <img loading="lazy" height="165em" src="https://github-readme-stats.vercel.app/api?username=mateusadada&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&"/>
 </div>
      
 <!-- snake -->
