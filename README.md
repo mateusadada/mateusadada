@@ -1,30 +1,22 @@
-> [!NOTE]
-> This [README](https://github.com/mateusadada) is under development.
-
 <div align="center">
   <p>
     <a href="https://github.com/mateusadada">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&center=true&vCenter=true&repeat=false&random=false&width=470&height=25&lines=Mateus+Adada" alt="Mateus Adada"/></a>
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=1&pause=1000&center=true&vCenter=true&repeat=false&random=false&width=510&height=25&lines=Mateus+Adada" alt="Mateus Adada"/></a>
   </p>
   
   <p>
     <a href="https://github.com/mateusadada">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=470&height=30&lines=Hello+there!;I'm+a+passionate+developer+from+Brazil;Always+learning+new+things;Nice+to+meet+you" alt="Mateus's greetings"/></a>
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&random=false&width=510&height=30&lines=Hello+there!;I'm+a+passionate+developer+from+Brazil;Always+learning+new+things;Nice+to+meet+you!+Happy+coding!+🚀" alt="Mateus's greetings"/></a>
   </p>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 💫 About me:
-- 🔭 I’m currently working on Metalúrgica Wind
-- 🌱 I’m currently learning english at [TopWay](https://www.topwayschool.com/)
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
+I am a technology enthusiast currently working as a PPCP (Production Planning, Programming, and Control) analyst in a metallurgical company in Brazil. Currently, I am dedicated to pursuing my degree in Information Systems at UDESC. My activities extend beyond the corporate world, as I am committed to turning my passion for technology into a career as a programmer. I have the habit of delving into my studies in various areas, always seeking to understand the most complex content. In parallel, I invest time in English classes, recognizing the importance of this language in the global technology scene.
 
-<br><a href="https://github.com/mateusadada"><img src="https://views.whatilearened.today/views/github/mateusadada/mateusadada.svg" alt="Views count Badge"/></a><br>
+I have been striving to discover my preference between Front-End and Back-End, or even embrace both challenges. I am excited about the learning journey, committed to absorbing deeper knowledge in both areas, with the hope of making a significant contribution to innovative projects in the future.<br>
+
 <a href="https://github.com/mateusadada"><img src="https://komarev.com/ghpvc/?username=mateusadada&color=447ff7&label=views" alt="Views count Badge"/></a><hr>
 
 <details> 
