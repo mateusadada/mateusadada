@@ -88,10 +88,9 @@ I have been exploring to identify my preference between Front-End and Back-End, 
 <!-- statistics -->
 <div align="center">
      <a href="https://github.com/mateusadada">
-     <img loading="lazy" height="165em" src="https://streak-stats.demolab.com?user=mateusadada&theme=dracula&exclude_days=Sun%2CSat&hide_border=true&"/><br><br>
+     <img loading="lazy" height="165em" src="https://streak-stats.demolab.com?user=mateusadada&theme=dracula&exclude_days=Sun%2CSat&hide_border=true&"/><br>
      <img loading="lazy" height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusadada&layout=compact&langs_count=7&theme=dracula&hide_border=true&"/>
      <img loading="lazy" height="165em" src="https://github-readme-stats.vercel.app/api?username=mateusadada&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&"/>
-</div>
      
 <!-- snake -->
 <picture>
