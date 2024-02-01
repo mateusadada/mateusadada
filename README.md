@@ -15,7 +15,7 @@
 ## 💫 About me:
 I am a technology enthusiast currently working as a PPCP (Production Planning, Programming, and Control) analyst in a metallurgical company in Brazil. Currently, I am dedicated to pursuing my degree in Information Systems at UDESC. My activities extend beyond the corporate world, as I am committed to turning my passion for technology into a career as a programmer. I have the habit of delving into my studies in various areas, always seeking to understand the most complex content. In parallel, I invest time in English classes, recognizing the importance of this language in the global technology scene.
 
-I have been exploring to identify my preference between Front-End and Back-End, or even to embrace both challenges. My ultimate objective is to actively contribute to innovative projects, utilizing my skills and knowledge to address real-world problems through coding. By embracing challenges and committing to continuous learning, my goal is to make a meaningful impact within the tech industry.<hr>
+I have been exploring to identify my preference between Front-End and Back-End, or even to embrace both challenges. My ultimate objective is to actively contribute to innovative projects, utilizing my skills and knowledge to address real-world problems through coding. By embracing challenges and committing to continuous learning, my goal is to make a meaningful impact within the tech industry.
 
 <details> 
   <summary><h3>💻 Languages and tools</h3></summary>
