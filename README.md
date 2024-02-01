@@ -15,9 +15,7 @@
 ## 💫 About me:
 I am a technology enthusiast currently working as a PPCP (Production Planning, Programming, and Control) analyst in a metallurgical company in Brazil. Currently, I am dedicated to pursuing my degree in Information Systems at UDESC. My activities extend beyond the corporate world, as I am committed to turning my passion for technology into a career as a programmer. I have the habit of delving into my studies in various areas, always seeking to understand the most complex content. In parallel, I invest time in English classes, recognizing the importance of this language in the global technology scene.
 
-I have been striving to discover my preference between Front-End and Back-End, or even embrace both challenges. I am excited about the learning journey, committed to absorbing deeper knowledge in both areas, with the hope of making a significant contribution to innovative projects in the future.<br>
-
-<a href="https://github.com/mateusadada"><img src="https://komarev.com/ghpvc/?username=mateusadada&color=447ff7&label=views" alt="Views count Badge"/></a><hr>
+I have been striving to discover my preference between Front-End and Back-End, or even embrace both challenges. I am excited about the learning journey, committed to absorbing deeper knowledge in both areas, with the hope of making a significant contribution to innovative projects in the future.<hr>
 
 <details> 
   <summary><h3>💻 Languages and tools</h3></summary>
@@ -104,4 +102,8 @@ I have been striving to discover my preference between Front-End and Back-End, o
 </details>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<p align="center">Developed with ❤️ in Brazil 🇧🇷</p>
+<div align="center">
+  <p><a href="https://github.com/mateusadada"><img src="https://komarev.com/ghpvc/?username=mateusadada&color=447ff7&label=views" alt="Views count Badge"/></a>
+  <a href="https://github.com/mateusadada/mateusadada/blob/main/LICENSE"><img src="https://img.shields.io/github/license/mateusadada/mateusadada?color=2b9348" alt="License Badge"/></a></p>
+  <p>Developed with ❤️ in Brazil 🇧🇷</p>
+</div>
