@@ -75,7 +75,7 @@ I have been exploring to identify my preference between Front-End and Back-End, 
   <summary><h3>⚡ Recent activity</h3></summary>
      
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#282](https://github.com/DenverCoder1/readme-typing-svg/pull/282) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
+1. 🎉 Merged PR [#5](https://github.com/mateusadada/confeitaria-dona-lucia-udesc/pull/5) in [mateusadada/confeitaria-dona-lucia-udesc](https://github.com/mateusadada/confeitaria-dona-lucia-udesc)
 2. 🗣 Commented on [#2771](https://github.com/gustavoguanabara/git-github/issues/2771#issuecomment-1789533648) in [gustavoguanabara/git-github](https://github.com/gustavoguanabara/git-github)
 3. 🗣 Commented on [#2772](https://github.com/gustavoguanabara/git-github/issues/2772#issuecomment-1789533311) in [gustavoguanabara/git-github](https://github.com/gustavoguanabara/git-github)
 4. 🗣 Commented on [#15](https://github.com/cursoemvideo/cursoemvideo-python/issues/15#issuecomment-1780891919) in [cursoemvideo/cursoemvideo-python](https://github.com/cursoemvideo/cursoemvideo-python)
