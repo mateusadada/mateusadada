@@ -13,7 +13,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 💫 About me:
-I am a technology enthusiast currently working as an IT Analyst, responsible for managing the entire network infrastructure, hardware and software, as well as configuring and maintaining firewalls and servers (Windows Server and Linux). I also implement cybersecurity measures, manage backups, provide technical support through GLPI, and monitor system performance data to ensure the efficiency and security of IT operations. My focus is on automating and optimizing processes to enhance system functionality and resolve connectivity and performance issues.
+I am a technology enthusiast working as an IT Analyst, responsible for managing the entire network infrastructure, hardware and software, as well as configuring and maintaining firewalls and servers (Windows Server and Linux). I also implement cybersecurity measures, manage backups, provide technical support through GLPI, and monitor system performance data to ensure the efficiency and security of IT operations. My focus is on automating and optimizing processes to enhance system functionality and resolve connectivity and performance issues.
 
 In parallel, I am pursuing my degree in Information Systems at UDESC and dedicating time to studying English, recognizing its importance in the global tech landscape. I am passionate about technology and continuous learning, always seeking to tackle complex challenges and contribute to innovative projects. My goal is to make a positive impact within the IT industry by applying my skills and knowledge to solve real-world problems.
 
