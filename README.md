@@ -60,7 +60,7 @@ In parallel, I am pursuing my degree in Information Systems at UDESC and dedicat
              <img loading="lazy" src="https://skillicons.dev/icons?i=css" width="40" height="40"/>
          </a>
          <a href="https://en.wikipedia.org/wiki/JavaScript/">
-             <img loading="lazy" src="https://skillicons.dev/icons?i=js" width="40" height="40"/>
+             <img loading="lazy" src="https://skillicons.dev/icons?i=js/" width="40" height="40"/>
          </a>
      </div>
 </details>
