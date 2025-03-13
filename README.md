@@ -26,7 +26,7 @@ In parallel, I am pursuing my degree in Information Systems at UDESC and dedicat
           <a href="https://www.python.org/">
              <img loading="lazy" src="https://skillicons.dev/icons?i=py" width="40" height="40"/>
          </a>
-           <a href="https://en.wikipedia.org/wiki/HTML5">
+           <a href="https://en.wikipedia.org/wiki/HTML5/">
              <img loading="lazy" src="https://skillicons.dev/icons?i=html" width="40" height="40"/>
          </a>
            <a href="https://en.wikipedia.org/wiki/CSS/">
