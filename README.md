@@ -50,7 +50,7 @@ In parallel, I am pursuing my degree in Information Systems at UDESC and dedicat
 <details> 
   <summary><h3>📚 I’m currently learning</h3></summary>
      <div>
-         <a href="https://www.python.org">
+         <a href="https://www.python.org/">
              <img loading="lazy" src="https://skillicons.dev/icons?i=py" width="40" height="40"/>
          </a>
            <a href="https://en.wikipedia.org/wiki/HTML5/">
