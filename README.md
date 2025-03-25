@@ -69,7 +69,7 @@ In parallel, I am pursuing my degree in Information Systems at UDESC and dedicat
   <summary><h3>🌐 Connect with me</h3></summary>
      <div>
           <a href = "mailto:mateusadada@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-          <a href="https://www.linkedin.com/in/mateusadada" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+          <a href="https://www.linkedin.com/in/mateusadada/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
           <a href="https://instagram.com/mateusadada/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
      </div>
 </details>
@@ -90,7 +90,7 @@ In parallel, I am pursuing my degree in Information Systems at UDESC and dedicat
   <summary><h3>🔥 Stats</h3></summary>
 <!-- statistics -->
 <div align="center">
-     <a href="https://github.com/mateusadada">
+     <a href="https://github.com/mateusadada/">
      <img loading="lazy" height="165em" src="https://streak-stats.demolab.com?user=mateusadada&theme=dracula&exclude_days=Sun%2CSat&hide_border=true&"/><br>
      <img loading="lazy" height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusadada&layout=compact&langs_count=7&theme=dracula&hide_border=true&"/>
      <img loading="lazy" height="165em" src="https://github-readme-stats.vercel.app/api?username=mateusadada&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&"/>
