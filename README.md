@@ -35,6 +35,9 @@ In parallel, I am pursuing my degree in Information Systems at UDESC and dedicat
          <a href="https://en.wikipedia.org/wiki/JavaScript/">
              <img loading="lazy" src="https://skillicons.dev/icons?i=js" width="40" height="40"/>
          </a>
+          <a href="https://www.php.net/">
+             <img loading="lazy" src="https://skillicons.dev/icons?i=php" width="40" height="40"/>
+         </a>
          <a href="https://www.jetbrains.com/">
              <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" width="40" height="40"/>
          </a>
@@ -58,6 +61,9 @@ In parallel, I am pursuing my degree in Information Systems at UDESC and dedicat
          </a>
          <a href="https://en.wikipedia.org/wiki/JavaScript/">
              <img loading="lazy" src="https://skillicons.dev/icons?i=js" width="40" height="40"/>
+         <a href="https://www.php.net/">
+             <img loading="lazy" src="https://skillicons.dev/icons?i=php" width="40" height="40"/>
+         </a>
          </a>
      </div>
 </details>
