@@ -13,11 +13,11 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 💫 About me:
-I am a technology enthusiast with a background as an IT Analyst, experienced in managing network infrastructure, servers (Windows and Linux), cybersecurity, backups, and technical support. I focus on automation, process optimization, and problem-solving to ensure secure and efficient IT operations.
+I’m a technology enthusiast with hands-on experience as an IT Analyst, managing network infrastructure, servers (Windows and Linux), cybersecurity, backups, and technical support. My focus is on automation, process optimization, and solving complex problems to ensure secure and efficient IT operations.
 
-I am currently pursuing a degree in Information Systems at UDESC (Brazil) and participating in an exchange program at Bridgewater State University (USA), while continuously improving my English and expanding my global perspective in technology.
+I’m currently pursuing a Bachelor’s degree in Information Systems at UDESC (Brazil) and participating in an academic exchange program at Bridgewater State University (USA), while continuously improving my English and expanding my global perspective in technology.
 
-Passionate about continuous learning, I enjoy tackling complex challenges and applying my skills to deliver innovative solutions.
+Passionate about continuous learning, I enjoy exploring new technologies and applying my skills to create practical and innovative solutions.
 
 <details> 
   <summary><h3>💻 Languages and tools</h3></summary>
