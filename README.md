@@ -22,6 +22,12 @@ Passionate about continuous learning, I enjoy exploring new technologies and app
 <details> 
   <summary><h3>💻 Languages and tools</h3></summary>
      <div>
+         <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
+             <img loading="lazy" src="https://skillicons.dev/icons?i=c#" width="40" height="40"/>
+         </a>
+         <a href="https://unity.com/">
+             <img loading="lazy" src="https://skillicons.dev/icons?i=unity" width="40" height="40"/>
+         </a>
          <a href="https://www.mysql.com/">
              <img loading="lazy" src="https://skillicons.dev/icons?i=mysql" width="40" height="40"/>
          </a>
@@ -55,6 +61,12 @@ Passionate about continuous learning, I enjoy exploring new technologies and app
 <details> 
   <summary><h3>📚 I’m currently learning</h3></summary>
      <div>
+         <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
+             <img loading="lazy" src="https://skillicons.dev/icons?i=c#" width="40" height="40"/>
+         </a>
+         <a href="https://unity.com/">
+             <img loading="lazy" src="https://skillicons.dev/icons?i=unity" width="40" height="40"/>
+         </a>
            <a href="https://en.wikipedia.org/wiki/HTML5/">
              <img loading="lazy" src="https://skillicons.dev/icons?i=html" width="40" height="40"/>
          </a>
