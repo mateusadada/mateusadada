@@ -13,7 +13,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 💫 About me:
-I’m a technology enthusiast and Junior Information Security Analyst with hands-on experience in IT infrastructure, network security, and server administration across Windows and Linux environments. My work includes firewall management, system monitoring, vulnerability awareness, backups, and supporting secure and efficient operations.
+I’m a technology enthusiast and Information Security Analyst with hands-on experience in IT infrastructure, network security, and server administration across Windows and Linux environments. My work includes firewall management, system monitoring, vulnerability awareness, backups, and supporting secure and efficient operations.
 
 I’m currently pursuing a Bachelor’s degree in Information Systems at UDESC (Brazil). I also completed an academic exchange program in Computer Science at Bridgewater State University (USA), which strengthened my technical background, fluent English, and global perspective on cybersecurity and technology. I’m especially interested in Security Operations (SOC), risk management, and process automation using Python to improve security workflows and solve complex technical challenges.
 
