@@ -95,11 +95,11 @@ Driven by continuous learning, I enjoy exploring new technologies and building p
   <summary><h3>⚡ Recent activity</h3></summary>
      
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](undefined) in [mateusadada/treeshap-tcc-udesc](https://github.com/mateusadada/treeshap-tcc-udesc)
-2. ❌ Assigned PR [#1](undefined) in [mateusadada/treeshap-tcc-udesc](https://github.com/mateusadada/treeshap-tcc-udesc)
+1. 🚀 Published release [v1.0 — Demonstração](https://github.com/mateusadada/treeshap-tcc-udesc/releases/tag/v1.0) in [mateusadada/treeshap-tcc-udesc](https://github.com/mateusadada/treeshap-tcc-udesc)
+2. ❌ Closed PR [#1](undefined) in [mateusadada/treeshap-tcc-udesc](https://github.com/mateusadada/treeshap-tcc-udesc)
 3. ❌ Assigned PR [#1](undefined) in [mateusadada/treeshap-tcc-udesc](https://github.com/mateusadada/treeshap-tcc-udesc)
-4. 💪 Opened PR [#1](undefined) in [mateusadada/treeshap-tcc-udesc](https://github.com/mateusadada/treeshap-tcc-udesc)
-5. 🗣 Commented on [#6](https://github.com/cursoemvideo/cursoemvideo-python/issues/6#issuecomment-1780882959) in [cursoemvideo/cursoemvideo-python](https://github.com/cursoemvideo/cursoemvideo-python)
+4. ❌ Assigned PR [#1](undefined) in [mateusadada/treeshap-tcc-udesc](https://github.com/mateusadada/treeshap-tcc-udesc)
+5. 💪 Opened PR [#1](undefined) in [mateusadada/treeshap-tcc-udesc](https://github.com/mateusadada/treeshap-tcc-udesc)
 <!--END_SECTION:activity-->
 </details>
 
